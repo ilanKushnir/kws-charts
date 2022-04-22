@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  code-server:
+  - apiVersion: v2
+    appVersion: 4.0.2
+    created: "2022-04-22T15:16:37.165912+03:00"
+    description: A Helm chart for coder/code-server
+    digest: 57cb007c4b648968841a062559d1d9dfce4c070f58ed22a15e881de3326ef3af
+    name: code-server
+    type: application
+    urls:
+    - https://ilankushnir.github.io/kws-charts/code-server-2.1.0.tgz
+    version: 2.1.0
+generated: "2022-04-22T15:16:37.165271+03:00"
